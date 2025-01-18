@@ -9,10 +9,15 @@ Meihao Chen
 
 Hobby: Music
 
-Favorite animal: Dog
+Favorite animal: Cat
+
+![image](https://github.com/user-attachments/assets/7711fccc-25a7-4e3c-97f0-8953f7599da3)
+
 
 Jerry
 
 Hobby: Tennis
 
 Favorite animal: Dog
+
+![image](https://github.com/user-attachments/assets/fe060e9e-1158-4b4d-aa1e-95acc2483eca)
