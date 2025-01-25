@@ -1,4 +1,4 @@
-# 5500-A2
+# 5500-Activity
 class activity in week3:
 
 In project and Issues.
