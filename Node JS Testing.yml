@@ -6,16 +6,6 @@ on:
   pull_request:
     branch: [ main ]
 
-  jobs:
-    test:
-      runs-on: name: Node JS Testing
-
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-
 jobs:
   test:
     runs-on: ubuntu-latest
